@@ -76,7 +76,6 @@ Cohort-based analysis using time-based grouping and DISTINCT user tracking.
 
 ---
 
-## 📁 Folder Structure
 
 
 
